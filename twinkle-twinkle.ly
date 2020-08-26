@@ -5,10 +5,7 @@
 
 \relative c' {
   \time 2/4
-  c8\mf c g' b
-  a a <g d>4
-  f4 f e e
-  a a <g d>4
+  d d <c g>4
 }
 
 \addlyrics {
