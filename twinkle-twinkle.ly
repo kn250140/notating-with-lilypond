@@ -4,10 +4,10 @@
 }
 
 \relative c' {
-  c8\mf c g' b
-  a a <g d>4
-  f4 f e e
-  d d c2
+  c c g b
+  a a <g d>
+  f f e e
+  d d c
 }
 
 \addlyrics {
