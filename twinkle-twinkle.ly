@@ -7,7 +7,7 @@
   \key c \minor
   c8\mf c g' b
   a aes <g d>4
-  f4 f e e
+  \pf4 f e e
   d d c2
 }
 
