@@ -1,11 +1,14 @@
 \header {
   title = "Twinkle Twinkle"
   composer = "Mozart"
-}
-
+  
 \relative c' {
-  \time 2/4
-  d d <c g>4
+  \time 4/4
+  \key c \minor
+  c8\mf c g' b
+  a a <g d>4
+  f4 f e e
+  d d c2
 }
 
 \addlyrics {
