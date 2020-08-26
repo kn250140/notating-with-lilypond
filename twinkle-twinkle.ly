@@ -6,7 +6,7 @@
   \time 4/4
   \key c \minor
   c8\mf c g' b
-  c♭a a <g d>4
+  a aes <g d>4
   f4 f e e
   d d c2
 }
